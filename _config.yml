@@ -1,0 +1,19 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: David Mueller
+email: ""
+description: Jekyll Resume is a mega simple resume theme for Jekyll.
+baseurl: ""
+url: "http://davidm.de"
+name: David M&uuml;ller
+job: data scientist turned product manager
+location: San Jose, California
+languages: enterprise AI and machine learning
+twitter_username: davidm_ller
+github_username:  dvdmllr
+linkedin_username: dvdmllr 
+email_address: 
+
+# Build settings
+markdown: kramdown
